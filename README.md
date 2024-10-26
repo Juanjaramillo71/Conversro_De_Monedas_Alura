@@ -25,3 +25,12 @@ Para utilizar el conversor, simplemente compila y ejecuta el archivo fuente en t
 
 Java Development Kit (JDK) 8 o superior.
 Entorno de desarrollo compatible con Java o terminal para compilar y ejecutar el programa.
+
+# Ejemplo
+
+https://github.com/Juanjaramillo71/Conversro_De_Monedas_Alura/blob/c728b39b8abb9e17f030125a8a387548aaf72115/Ejemplo%20conversor%20de%20monedas/Captura%20de%20pantalla%202024-10-26%20120720.jpg
+
+https://github.com/Juanjaramillo71/Conversro_De_Monedas_Alura/blob/c728b39b8abb9e17f030125a8a387548aaf72115/Ejemplo%20conversor%20de%20monedas/Captura%20de%20pantalla%202024-10-26%20120748.jpg
+
+https://github.com/Juanjaramillo71/Conversro_De_Monedas_Alura/blob/c728b39b8abb9e17f030125a8a387548aaf72115/Ejemplo%20conversor%20de%20monedas/Captura%20de%20pantalla%202024-10-26%20120822.jpg
+
